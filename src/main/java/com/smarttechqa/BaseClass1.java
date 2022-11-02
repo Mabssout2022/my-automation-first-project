@@ -32,7 +32,7 @@ public class BaseClass1 {
 		
 		System.out.println(driver.getTitle()); 
 		
-		driver.quit();
+		//driver.quit();
 		
 		
 	}
